@@ -1,4 +1,5 @@
 
+
 This repo describes the custom bash scripts used to customize our workflow of using Obsidian as our markdown editor.
 
 I personally needed to use Obsidian to open md files without necessarily creating a new Vault every time.

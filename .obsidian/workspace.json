@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zshrc-addons.md",
+                "file": "README-local.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zshrc-addons"
+              "title": "README-local"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zshrc-addons.md",
+                "file": "README-local.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of zshrc-addons"
+              "title": "Outline of README-local"
             }
           },
           {
@@ -180,10 +180,12 @@
   },
   "active": "b9d77ae849a65a73",
   "lastOpenFiles": [
+    "README.md",
+    "README-local.md",
+    "zshrc-addons.md",
     "script-vaults.md",
     "script-obsidian.md",
     "script-md_open.md",
-    "README.md",
     "assets/README/file-20251031173811798.png",
     "assets/README/file-20251031173745795.png",
     "assets/README/file-20251031173732712.png",
@@ -194,7 +196,6 @@
     "assets/README/file-20251031173546140.png",
     "assets/README/file-20251031173522050.png",
     "assets/README/file-20251031173505250.png",
-    "zshrc-addons.md",
     "script-md_cleanup_all.md",
     "script-md_cleanup.md",
     "assets/README",
